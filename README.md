@@ -26,10 +26,22 @@ The "Nest & Worth" project aims to build a supervised machine learning regressio
 This project uses well-known regression techniques and evaluates model performance using standard quantitative metrics such as **Mean Absolute Error (MAE)** and **Root Mean Square Error (RMSE)**. The topic is easy to understand, widely used in academic research, and supported by reliable public datasets, making it suitable for demonstrating core machine learning concepts in a practical real-world context.
 
 
-### ❖ Further Justification (Literature Review)
+### Further Justification (Literature Review)
 House price prediction is a widely studied problem in machine learning literature and is commonly used as a benchmark for regression models. Previous studies indicate that machine learning techniques can effectively capture the relationship between housing features and market prices. Due to its academic relevance, availability of datasets, and practical importance, this topic is considered worthwhile and appropriate for the objectives of the ARTI 308 course.
 
 
-### ❖ References
+### Methodology Diagram
+![Methodology Diagram](./HousePrices_Methodology.png)
+###This diagram illustrates the complete workflow for the "Nest & Worth" House Price Prediction project, from data acquisition to results.
+### Diagram Steps:
+1. **Dataset Selection:** Obtaining the "House Prices - Advanced Regression Techniques" dataset from Kaggle.
+2. **Data Loading:** Importing `train.csv` using the Pandas library in Google Colab for initial analysis.
+3. **Exploratory Data Analysis (EDA):** Inspecting the data using `df.head()`, `df.shape`, and `df.info()` to understand features and types.
+4. **Data Preprocessing:** Handling missing values and cleaning the data to ensure model accuracy.
+5. **Model Training:** Splitting the data and applying Regression algorithms to learn patterns between house features and prices.
+6. **Model Evaluation:** Measuring performance using standard metrics: Mean Absolute Error (MAE) and Root Mean Square Error (RMSE).
+7. **Results & Conclusion:** Generating price predictions and summarizing project findings.
+
+### References
 * Datasets from Kaggle
 * ARTI 308: Machine Learning course materials
