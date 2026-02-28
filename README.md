@@ -2,7 +2,7 @@
 ## Nest & Worth: House Price Prediction
 ### Team Members:
 1. **Nour Alhammadi** - ID: 2240002036
-2. **Waad Alomar** - ID: 224000703
+2. **Waad Alomar** - ID: 2240007034
 4. **Fatima Adel Bahadi** - ID: 2240001143
 
 
