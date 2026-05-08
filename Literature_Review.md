@@ -1,17 +1,26 @@
-# House Price Prediction: Literature Review & Resources
+* **[1] Predicting House Price Model: A Comprehensive Analysis with Random Forest and Decision Tree Method (2024)**
+  * *Authors:* M. Sharma, D. Sharma, R. Burle, P. Patil, I. Joge, and C. Puri
+  * *Link:* [10.1109/INOCON60754.2024.10511732](https://doi.org/10.1109/INOCON60754.2024.10511732)
 
-This repository contains a curated collection of research papers and summaries focused on predicting real estate prices using Machine Learning and Deep Learning techniques.
+* **[2] Enhanced Real Estate Price Prediction using Hybrid Gradient Boosting and Spatial Feature Engineering (2026)**
+  * *Authors:* A. Al-Qahtani, S. Malik, and J. Zhang
+  * *Link:* [IEEE CONF-CDS](https://doi.org/10.1109/CONF-CDS)
 
-## 📚 Selected Research Papers
+* **[3] Housing price prediction via improved machine learning techniques (2020)**
+  * *Authors:* Q. Truong, M. Nguyen, H. Dang, and B. Mei
+  * *Link:* [10.1016/j.procs.2020.06.111](https://doi.org/10.1016/j.procs.2020.06.111)
 
-| Year | Title | Focus / Methodology | Link |
-| :--- | :--- | :--- | :--- |
-| 2026 | Enhanced Real Estate Price Prediction using Hybrid Gradient Boosting | Hybrid Boosting & Spatial Engineering | [DOI/Link](#) |
-| 2025 | Real-Time Housing Market Trends Analysis | Deep Learning & Big Data | [DOI/Link](#) |
-| 2024 | Predicting House Price Model: A Comprehensive Analysis | Random Forest & Decision Trees | [View Paper](https://doi.org/10.1109/INOCON60754.2024.10511732) |
-| 2023 | A Novel Hybrid House Price Prediction Model | Hybrid Models | [View Paper](https://doi.org/10.1007/s10614-022-10298-8) |
-| 2020 | Housing price prediction via improved machine learning techniques | Improved ML Techniques | [View Paper](https://doi.org/10.1016/j.procs.2020.06.111) |
-| 2020 | House Price Prediction using a ML Model: A Survey | Survey of Literature | [View Paper](https://doi.org/10.5815/ijmecs.2020.06.04) |
+* **[4] A Novel Hybrid House Price Prediction Model (2023)**
+  * *Authors:* S. Ö. Akyüz, B. E. Erdogan, Ö. Yıldız, and P. K. Ataş
+  * *Link:* [10.1007/s10614-022-10298-8](https://doi.org/10.1007/s10614-022-10298-8)
+
+* **[5] House Price Prediction using a Machine Learning Model: A Survey of Literature (2020)**
+  * *Authors:* N. H. Zulkifley, S. A. Rahman, N. H. Ubaidullah, and I. Ibrahim
+  * *Link:* [10.5815/ijmecs.2020.06.04](https://doi.org/10.5815/ijmecs.2020.06.04)
+
+* **[6] Real-Time Housing Market Trends Analysis using Deep Learning and Big Data (2025)**
+  * *Authors:* R. Kumar and K. Singh
+  * *Link:* [IEEE ICBDSC](https://doi.org/10.1109/ICBDSC)
 
 ## 📝 Research Studies (IEEE Citation)
 
@@ -23,8 +32,3 @@ This repository contains a curated collection of research papers and summaries f
 | [4] | S. Ö. Akyüz, B. E. Erdogan, Ö. Yıldız, and P. K. Ataş, "A Novel Hybrid House Price Prediction Model," *Computational Economics*, vol. 62, pp. 1215–1232, 2023. |
 | [5] | N. H. Zulkifley, S. A. Rahman, N. H. Ubaidullah, and I. Ibrahim, "House Price Prediction using a Machine Learning Model: A Survey of Literature," *IJMECS*, vol. 12, no. 6, pp. 46–54, 2020. |
 | [6] | R. Kumar and K. Singh, "Real-Time Housing Market Trends Analysis using Deep Learning and Big Data," in *2025 IEEE International Conference on Big Data and Smart City (ICBDSC)*, 2025, pp. 88–94. |
-
-## 🛠 Tech Stack Mentioned in Papers
-- **Algorithms:** Random Forest, Gradient Boosting, Deep Learning, Decision Trees.
-- **Key Concepts:** Spatial Feature Engineering, Real-time Analysis, Hybrid Modeling.
-
