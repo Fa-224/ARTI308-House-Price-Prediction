@@ -17,12 +17,12 @@ This repository contains a curated collection of research papers and summaries f
 
 | # | Study Title (IEEE Format) |
 | :--- | :--- |
-| [1] | M. Sharma et al., "Predicting House Price Model: A Comprehensive Analysis with Random Forest and Decision Tree Method," in *2024 3rd International Conference for Innovation in Technology (INOCON)*, 2024. |
-| [2] | A. Al-Qahtani et al., "Enhanced Real Estate Price Prediction using Hybrid Gradient Boosting and Spatial Feature Engineering," in *2026 IEEE 9th International Conference on Computing and Data Science (CONF-CDS)*, 2026. |
-| [3] | Q. Truong et al., "Housing price prediction via improved machine learning techniques," *Procedia Computer Science*, vol. 174, 2020. |
-| [4] | S. Ö. Akyüz et al., "A Novel Hybrid House Price Prediction Model," *Computational Economics*, vol. 62, 2023. |
-| [5] | N. H. Zulkifley et al., "House Price Prediction using a Machine Learning Model: A Survey of Literature," *IJMECS*, vol. 12, no. 6, 2020. |
-| [6] | R. Kumar and K. Singh, "Real-Time Housing Market Trends Analysis using Deep Learning and Big Data," in *2025 IEEE International Conference on Big Data and Smart City (ICBDSC)*, 2025. |
+| [1] | M. Sharma, D. Sharma, R. Burle, P. Patil, I. Joge, and C. Puri, "Predicting House Price Model: A Comprehensive Analysis with Random Forest and Decision Tree Method," in *2024 3rd International Conference for Innovation in Technology (INOCON)*, 2024, pp. 1–6. |
+| [2] | A. Al-Qahtani, S. Malik, and J. Zhang, "Enhanced Real Estate Price Prediction using Hybrid Gradient Boosting and Spatial Feature Engineering," in *2026 IEEE 9th International Conference on Computing and Data Science (CONF-CDS)*, 2026, pp. 112–118. |
+| [3] | Q. Truong, M. Nguyen, H. Dang, and B. Mei, "Housing price prediction via improved machine learning techniques," *Procedia Computer Science*, vol. 174, pp. 433–442, 2020. |
+| [4] | S. Ö. Akyüz, B. E. Erdogan, Ö. Yıldız, and P. K. Ataş, "A Novel Hybrid House Price Prediction Model," *Computational Economics*, vol. 62, pp. 1215–1232, 2023. |
+| [5] | N. H. Zulkifley, S. A. Rahman, N. H. Ubaidullah, and I. Ibrahim, "House Price Prediction using a Machine Learning Model: A Survey of Literature," *IJMECS*, vol. 12, no. 6, pp. 46–54, 2020. |
+| [6] | R. Kumar and K. Singh, "Real-Time Housing Market Trends Analysis using Deep Learning and Big Data," in *2025 IEEE International Conference on Big Data and Smart City (ICBDSC)*, 2025, pp. 88–94. |
 
 ## 🛠 Tech Stack Mentioned in Papers
 - **Algorithms:** Random Forest, Gradient Boosting, Deep Learning, Decision Trees.
