@@ -17,6 +17,3 @@ This repository contains a curated collection of research papers and summaries f
 - **Algorithms:** Random Forest, Gradient Boosting, Deep Learning, Decision Trees.
 - **Key Concepts:** Spatial Feature Engineering, Real-time Analysis, Hybrid Modeling.
 
-## 📂 Repository Structure
-- `/summaries`: My personal notes and key takeaways from each paper.
-- `/references`: BibTeX files for easy citation.
