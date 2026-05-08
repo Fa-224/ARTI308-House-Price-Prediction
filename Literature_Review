@@ -1,22 +1,20 @@
-# House Price Prediction: Literature Review & Resources
-
-This repository contains a curated collection of research papers and summaries focused on predicting real estate prices using Machine Learning and Deep Learning techniques.
-
-## 📚 Selected Research Papers
-
-| Year | Title | Focus / Methodology | Link |
-| :--- | :--- | :--- | :--- |
-| 2026 | Enhanced Real Estate Price Prediction using Hybrid Gradient Boosting | Hybrid Boosting & Spatial Engineering | [DOI/Link](#) |
-| 2025 | Real-Time Housing Market Trends Analysis | Deep Learning & Big Data | [DOI/Link](#) |
-| 2024 | Predicting House Price Model: A Comprehensive Analysis | Random Forest & Decision Trees | [View Paper](https://doi.org/10.1109/INOCON60754.2024.10511732) |
-| 2023 | A Novel Hybrid House Price Prediction Model | Hybrid Models | [View Paper](https://doi.org/10.1007/s10614-022-10298-8) |
-| 2020 | Housing price prediction via improved machine learning techniques | Improved ML Techniques | [View Paper](https://doi.org/10.1016/j.procs.2020.06.111) |
-| 2020 | House Price Prediction using a ML Model: A Survey | Survey of Literature | [View Paper](https://doi.org/10.5815/ijmecs.2020.06.04) |
-
-## 🛠 Tech Stack Mentioned in Papers
-- **Algorithms:** Random Forest, Gradient Boosting, Deep Learning, Decision Trees.
+# House Price Prediction Research Papers
+ * **[1] Predicting House Price Model: A Comprehensive Analysis with Random Forest and Decision Tree Method (2024)**
+   * *Authors:* M. Sharma, D. Sharma, R. Burle, P. Patil, I. Joge, and C. Puri
+   * *Link:* 10.1109/INOCON60754.2024.10511732
+ * **[2] Enhanced Real Estate Price Prediction using Hybrid Gradient Boosting and Spatial Feature Engineering (2026)**
+   * *Authors:* A. Al-Qahtani, S. Malik, and J. Zhang
+   * *Link:* IEEE CONF-CDS
+ * **[3] Housing price prediction via improved machine learning techniques (2020)**
+   * *Authors:* Q. Truong, M. Nguyen, H. Dang, and B. Mei
+   * *Link:* 10.1016/j.procs.2020.06.111
+ * **[4] A Novel Hybrid House Price Prediction Model (2023)**
+   * *Authors:* S. Ö. Akyüz, B. E. Erdogan, Ö. Yıldız, and P. K. Ataş
+   * *Link:* 10.1007/s10614-022-10298-8
+ * **[5] House Price Prediction using a Machine Learning Model: A Survey of Literature (2020)**
+   * *Authors:* N. H. Zulkifley, S. A. Rahman, N. H. Ubaidullah, and I. Ibrahim
+   * *Link:* 10.5815/ijmecs.2020.06.04
+ * **[6] Real-Time Housing Market Trends Analysis using Deep Learning and Big Data (2025)**
+   * *Authors:* R. Kumar and K. Singh
+   * *Link:* IEEE ICBDSCdom Forest, Gradient Boosting, Deep Learning, Decision Trees.
 - **Key Concepts:** Spatial Feature Engineering, Real-time Analysis, Hybrid Modeling.
-
-## 📂 Repository Structure
-- `/summaries`: My personal notes and key takeaways from each paper.
-- `/references`: BibTeX files for easy citation.
