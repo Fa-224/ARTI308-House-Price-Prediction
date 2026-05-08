@@ -13,6 +13,17 @@ This repository contains a curated collection of research papers and summaries f
 | 2020 | Housing price prediction via improved machine learning techniques | Improved ML Techniques | [View Paper](https://doi.org/10.1016/j.procs.2020.06.111) |
 | 2020 | House Price Prediction using a ML Model: A Survey | Survey of Literature | [View Paper](https://doi.org/10.5815/ijmecs.2020.06.04) |
 
+## 📝 Research Studies (IEEE Citation)
+
+| # | Study Title (IEEE Format) |
+| :--- | :--- |
+| [1] | M. Sharma et al., "Predicting House Price Model: A Comprehensive Analysis with Random Forest and Decision Tree Method," in *2024 3rd International Conference for Innovation in Technology (INOCON)*, 2024. |
+| [2] | A. Al-Qahtani et al., "Enhanced Real Estate Price Prediction using Hybrid Gradient Boosting and Spatial Feature Engineering," in *2026 IEEE 9th International Conference on Computing and Data Science (CONF-CDS)*, 2026. |
+| [3] | Q. Truong et al., "Housing price prediction via improved machine learning techniques," *Procedia Computer Science*, vol. 174, 2020. |
+| [4] | S. Ö. Akyüz et al., "A Novel Hybrid House Price Prediction Model," *Computational Economics*, vol. 62, 2023. |
+| [5] | N. H. Zulkifley et al., "House Price Prediction using a Machine Learning Model: A Survey of Literature," *IJMECS*, vol. 12, no. 6, 2020. |
+| [6] | R. Kumar and K. Singh, "Real-Time Housing Market Trends Analysis using Deep Learning and Big Data," in *2025 IEEE International Conference on Big Data and Smart City (ICBDSC)*, 2025. |
+
 ## 🛠 Tech Stack Mentioned in Papers
 - **Algorithms:** Random Forest, Gradient Boosting, Deep Learning, Decision Trees.
 - **Key Concepts:** Spatial Feature Engineering, Real-time Analysis, Hybrid Modeling.
