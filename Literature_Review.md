@@ -22,6 +22,21 @@
   * *Authors:* R. Kumar and K. Singh
   * *Link:* [IEEE ICBDSC](https://doi.org/10.1109/ICBDSC)
 
+---
+
+## 📊 Research Summary Table
+
+| Year | Title | Focus / Methodology | Link |
+| :--- | :--- | :--- | :--- |
+| 2024 | Predicting House Price Model: A Comprehensive Analysis | Random Forest & Decision Trees | [View Paper](https://doi.org/10.1109/INOCON60754.2024.10511732) |
+| 2026 | Enhanced Real Estate Price Prediction using Hybrid Gradient Boosting | Hybrid Boosting & Spatial Engineering | [View Paper](https://doi.org/10.1109/CONF-CDS) |
+| 2020 | Housing price prediction via improved machine learning techniques | Improved ML Techniques | [View Paper](https://doi.org/10.1016/j.procs.2020.06.111) |
+| 2023 | A Novel Hybrid House Price Prediction Model | Hybrid Models | [View Paper](https://doi.org/10.1007/s10614-022-10298-8) |
+| 2020 | House Price Prediction using a ML Model: A Survey | Survey of Literature | [View Paper](https://doi.org/10.5815/ijmecs.2020.06.04) |
+| 2025 | Real-Time Housing Market Trends Analysis | Deep Learning & Big Data | [View Paper](https://doi.org/10.1109/ICBDSC) |
+
+---
+
 ## 📝 Research Studies (IEEE Citation)
 
 | # | Study Title (IEEE Format) |
