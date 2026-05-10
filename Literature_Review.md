@@ -1,23 +1,8 @@
-## 📊 Research Summary Table
-
-| Year | Title | Focus / Methodology | Link |
-| :--- | :--- | :--- | :--- |
-| 2024 | Predicting House Price Model: A Comprehensive Analysis | Random Forest & Decision Trees | [View Paper](https://doi.org/10.1109/INOCON60754.2024.10511732) |
-| 2026 | Enhanced Real Estate Price Prediction using Hybrid Gradient Boosting | Hybrid Boosting & Spatial Engineering | [View Paper](https://doi.org/10.1109/CONF-CDS) |
-| 2020 | Housing price prediction via improved machine learning techniques | Improved ML Techniques | [View Paper](https://doi.org/10.1016/j.procs.2020.06.111) |
-| 2023 | A Novel Hybrid House Price Prediction Model | Hybrid Models | [View Paper](https://doi.org/10.1007/s10614-022-10298-8) |
-| 2020 | House Price Prediction using a ML Model: A Survey | Survey of Literature | [View Paper](https://doi.org/10.5815/ijmecs.2020.06.04) |
-| 2025 | Real-Time Housing Market Trends Analysis | Deep Learning & Big Data | [View Paper](https://doi.org/10.1109/ICBDSC) |
-
----
-
-## 📝 Research Studies (IEEE Citation)
-
-| # | Study Title (IEEE Format) |
-| :--- | :--- |
-| [1] | M. Sharma, D. Sharma, R. Burle, P. Patil, I. Joge, and C. Puri, "Predicting House Price Model: A Comprehensive Analysis with Random Forest and Decision Tree Method," in *2024 3rd International Conference for Innovation in Technology (INOCON)*, 2024, pp. 1–6. |
-| [2] | A. Al-Qahtani, S. Malik, and J. Zhang, "Enhanced Real Estate Price Prediction using Hybrid Gradient Boosting and Spatial Feature Engineering," in *2026 IEEE 9th International Conference on Computing and Data Science (CONF-CDS)*, 2026, pp. 112–118. |
-| [3] | Q. Truong, M. Nguyen, H. Dang, and B. Mei, "Housing price prediction via improved machine learning techniques," *Procedia Computer Science*, vol. 174, pp. 433–442, 2020. |
-| [4] | S. Ö. Akyüz, B. E. Erdogan, Ö. Yıldız, and P. K. Ataş, "A Novel Hybrid House Price Prediction Model," *Computational Economics*, vol. 62, pp. 1215–1232, 2023. |
-| [5] | N. H. Zulkifley, S. A. Rahman, N. H. Ubaidullah, and I. Ibrahim, "House Price Prediction using a Machine Learning Model: A Survey of Literature," *IJMECS*, vol. 12, no. 6, pp. 46–54, 2020. |
-| [6] | R. Kumar and K. Singh, "Real-Time Housing Market Trends Analysis using Deep Learning and Big Data," in *2025 IEEE International Conference on Big Data and Smart City (ICBDSC)*, 2025, pp. 88–94. |
+| # | Study Title (IEEE Format) | ResearchGate Link (URL) | Research Gap (English) |
+|---|---|---|---|
+| **[1]** | M. Sharma, D. Sharma, R. Burle, P. Patil, I. Joge, and C. Puri, "Predicting House Price Model: A Comprehensive Analysis with Random Forest and Decision Tree Method," in *2024 3rd International Conference for Innovation in Technology (INOCON)*, 2024. | Link | The study focuses on specific algorithms but lacks scalability when dealing with high-dimensional, real-time datasets. |
+| **[2]** | M. J. Chowhaan, D. Nitish, G. Akash, N. Sreevidya, and S. Shaik, "Machine Learning Approach for House Price Prediction," *Journal of Engineering Research and Reports*, vol. 22, no. 4, pp. 26-32, 2022. | Link | This research relies on basic regression models (Linear, Lasso, Ridge) and fails to address non-linear patterns in volatile markets. |
+| **[3]** | Q. Truong, M. Nguyen, H. Dang, and B. Mei, "Housing price prediction via improved machine learning techniques," *Procedia Computer Science*, vol. 174, pp. 433–442, 2020. | Link | The methodology does not account for external economic shocks or localized geographic influences on price changes. |
+| **[4]** | S. Ö. Akyüz, B. E. Erdogan, Ö. Yıldız, and P. K. Ataş, "A Novel Hybrid House Price Prediction Model," *Computational Economics*, vol. 62, pp. 1215–1232, 2023. | Link | While proposing a hybrid model, it lacks a comparison with modern ensemble techniques like XGBoost or CatBoost in diverse settings. |
+| **[5]** | N. H. Zulkifley, S. A. Rahman, N. H. Ubaidullah, and I. Ibrahim, "House Price Prediction using a Machine Learning Model: A Survey of Literature," *IJMECS*, vol. 12, no. 6, pp. 46–54, 2020. | Link | As a survey, it identifies trends but provides no experimental framework for integrating multi-source data (e.g., social indicators). |
+| **[6]** | R. Kumar and K. Singh, "Real-Time Housing Market Trends Analysis using Deep Learning and Big Data," in *2025 IEEE International Conference on Big Data and Smart City (ICBDSC)*, 2025. | Link | The model is computationally expensive and struggles with "Data Sparsity" in regions where historical records are incomplete. |
